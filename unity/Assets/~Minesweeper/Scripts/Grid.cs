@@ -65,7 +65,7 @@ namespace Minesweeper
                     {
                         continue;
                     }
-                    Tile currentTile = tile[desiredX, desiredY];
+                    Tile currentTile = tiles[desiredX, desiredY];
 
                     if (currentTile.isMine)
                     {
