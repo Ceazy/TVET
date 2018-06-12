@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 192433cbf3850db4f9e74c4fcf3b9e34
+timeCreated: 1528801035
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playButton: {instanceID: 0}
+  - playerShip: {instanceID: 0}
+  - scoreUITextGO: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/~Assessments/ScriptingInUnity/Build/Scenes/GameEngine.unity
+  isLoaded: 1
+  isActive: 1
